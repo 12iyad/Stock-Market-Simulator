@@ -1,5 +1,5 @@
 # Stock Market Simulator
-Developing and Upgrading my first year university object-orientated programming project
+Developing and upgrading my first year university object-orientated programming project
 This program will only work on windows command line due to my unique way of clearing the screen through CLS (for clear screen)
 # To run this program
 >Assuming you have all the Java essentials to run Java code on terminal and added the correct PATH
